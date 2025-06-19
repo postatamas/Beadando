@@ -1,5 +1,6 @@
 Main.class
 model\Currency.class
 model\CurrencyRepository$1.class
+model\CurrencyConverter.class
 model\CurrencyRepository.class
 controller.class
