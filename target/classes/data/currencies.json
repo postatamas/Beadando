@@ -1,22 +1,32 @@
 [
-  {
-    "code": "USD",
-    "name": "US Dollar",
-    "rate": 1.0
-  },
-  {
-    "code": "EUR",
-    "name": "Euro",
-    "rate": 0.93
-  },
-  {
-    "code": "HUF",
-    "name": "Hungarian Forint",
-    "rate": 365.0
-  },
-  {
-    "code": "GBP",
-    "name": "British Pound",
-    "rate": 0.80
-  }
+  {"code": "USD", "name": "Amerikai dollár", "rate": 1.00},
+  {"code": "EUR", "name": "Euró", "rate": 0.93},
+  {"code": "GBP", "name": "Angol font", "rate": 0.79},
+  {"code": "JPY", "name": "Japán jen", "rate": 156.30},
+  {"code": "CHF", "name": "Svájci frank", "rate": 0.89},
+  {"code": "CAD", "name": "Kanadai dollár", "rate": 1.37},
+  {"code": "AUD", "name": "Ausztrál dollár", "rate": 1.50},
+  {"code": "CNY", "name": "Kínai jüan", "rate": 7.25},
+  {"code": "SEK", "name": "Svéd korona", "rate": 10.68},
+  {"code": "NOK", "name": "Norvég korona", "rate": 10.80},
+  {"code": "DKK", "name": "Dán korona", "rate": 6.94},
+  {"code": "HUF", "name": "Magyar forint", "rate": 365.0},
+  {"code": "PLN", "name": "Lengyel zloty", "rate": 4.33},
+  {"code": "CZK", "name": "Cseh korona", "rate": 22.90},
+  {"code": "RUB", "name": "Orosz rubel", "rate": 89.45},
+  {"code": "INR", "name": "Indiai rúpia", "rate": 83.60},
+  {"code": "BRL", "name": "Brazil real", "rate": 5.40},
+  {"code": "ZAR", "name": "Dél-afrikai rand", "rate": 18.10},
+  {"code": "TRY", "name": "Török líra", "rate": 32.25},
+  {"code": "MXN", "name": "Mexikói peso", "rate": 18.15},
+  {"code": "KRW", "name": "Dél-koreai von", "rate": 1365.0},
+  {"code": "SGD", "name": "Szingapúri dollár", "rate": 1.35},
+  {"code": "HKD", "name": "Hongkongi dollár", "rate": 7.80},
+  {"code": "THB", "name": "Thai bát", "rate": 36.50},
+  {"code": "IDR", "name": "Indonéz rúpia", "rate": 15600.0},
+  {"code": "PHP", "name": "Fülöp-szigeteki peso", "rate": 58.0},
+  {"code": "MYR", "name": "Maláj ringgit", "rate": 4.70},
+  {"code": "NZD", "name": "Új-zélandi dollár", "rate": 1.62},
+  {"code": "ILS", "name": "Izraeli új sékel", "rate": 3.70},
+  {"code": "AED", "name": "Egyesült Arab Emírségek dirham", "rate": 3.67}
 ]
