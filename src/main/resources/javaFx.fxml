@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.*?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane xmlns:fx="http://javafx.com/fxml" prefHeight="200" prefWidth="300">
-    <Label text="Hello JavaFX!" layoutX="100" layoutY="80"/>
+<AnchorPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="controller.MainController"
+            prefHeight="300.0" prefWidth="400.0">
+    <children>
+        <ComboBox fx:id="fromCurrencyComboBox"
+                  layoutX="40.0" layoutY="40.0"
+                  prefWidth="140.0" />
+
+        <ComboBox fx:id="toCurrencyComboBox"
+                  layoutX="220.0" layoutY="40.0"
+                  prefWidth="140.0" />
+
+        <TextField fx:id="amountTextField"
+                   layoutX="40.0" layoutY="90.0"
+                   prefWidth="320.0"
+                   promptText="Írj be egy összeget" />
+
+        <Button fx:id="convertButton"
+                layoutX="150.0" layoutY="140.0"
+                prefWidth="100.0"
+                text="Átváltás" />
+
+        <Label fx:id="resultLabel"
+               layoutX="40.0" layoutY="200.0"
+               prefWidth="320.0"
+               text="Eredmény: -" />
+    </children>
 </AnchorPane>
