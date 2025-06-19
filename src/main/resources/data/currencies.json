@@ -1,0 +1,22 @@
+[
+  {
+    "code": "USD",
+    "name": "US Dollar",
+    "rate": 1.0
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "rate": 0.93
+  },
+  {
+    "code": "HUF",
+    "name": "Hungarian Forint",
+    "rate": 365.0
+  },
+  {
+    "code": "GBP",
+    "name": "British Pound",
+    "rate": 0.80
+  }
+]
